@@ -7,6 +7,8 @@
 
 - Might Be Broken, Create Pull Request If YOU Want To Fix It
 
+- Provided Tokens Might Be Invalid
+- 
 - 📫 How to reach me **gamer@3514.ga Gamer3514#7679**
 
 <h3 align="left">My Socials:</h3>
