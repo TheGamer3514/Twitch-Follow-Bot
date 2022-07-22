@@ -11,17 +11,17 @@ const axios = require('axios')
 request = require('request'),
 
 XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest,
-admins = ["763471049894527006", "794953793350926346", "823822998049259520"],
+admins = ["useridhere", "useridhere", "useridhere"],
 config = {
-    "826119171254648833": 100000,
-    "841390870304784384": 9999,
-    "826482637626408970": 500,
-    "845380784454107170": 400,
-    "845380629545222164": 300,
-    "845380506194280480": 200,
-    "845380381577838643": 100,
-    "826119196470673488": 25,
-    "815154648204967946": 1,
+    "roleidhere": 100000,
+    "roleidhere": 9999,
+    "roleidhere": 500,
+    "roleidhere": 400,
+    "roleidhere": 300,
+    "roleidhere": 200,
+    "roleidhere": 100,
+    "roleidhere": 25,
+    "roleidhere": 1,
 } 
 
 var tokens = fs.readFileSync('./tokens.txt', 'utf-8');
@@ -101,7 +101,7 @@ if (command === "buy") {
         .setDescription(`Prices for roles:
         $5 for gold,
         $10 for premium
-        dm rickastley#0483 or open a ticket to buy and claim `)
+        dm yomom#696969 or open a ticket to buy and claim `)
         .setColor("BLUE")
         .setFooter(message.guild.name, message.guild.iconURL({
             dynamic: true
