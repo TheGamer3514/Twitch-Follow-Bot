@@ -9,10 +9,12 @@
 
 - Provided Tokens Might Be Invalid
 
-- 📫 How to reach me **gamer@3514.ga Gamer3514#7679**
+- 📫 How to reach me
+- gamer@sillydev.co.uk
+- https://discord.gg/sillydev
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/thegamer3514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the gamer3514" height="30" width="40" /></a>
-<a href="https://discord.gg/WeQ3TpdfZM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" /></a>
+<a href="https://discord.gg/sillydev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WeQ3TpdfZM" height="30" width="40" /></a>
 </p>
