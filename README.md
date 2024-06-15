@@ -7,7 +7,9 @@
 
 - Might Be Broken, Create Pull Request If YOU Want To Fix It
 
-- Provided Tokens Might Be Invalid
+- NO support is provided for this script
+
+- Provided Tokens ARE Invalid
 
 - 📫 How to reach me
 - gamer@sillydev.co.uk
